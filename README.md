@@ -3,7 +3,7 @@
 ###  I'm a passionate computer engineering student who's deeply enthusiastic about technology!"
 <img align="right" height="200px" src="https://media.tenor.com/EYlncSVM2w0AAAAC/ech-echop.gif">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mauesjr&hide_title=true&theme=transparent&bg_color=000&border_color=76bdfc&show_icons=true&icon_color=76bdfc&title_color=76bdfc&text_color=76bdfc)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mauesjr&hide_title=true&theme=transparent&bg_color=000&border_color=76bdfc&show_icons=true&icon_color=76bdfc&title_color=76bdfc&text_color=fff)
 
 - Sou um grande apaixonado por Tecnologia
 - Graduando em Engenharia da Computação (UFPA)
