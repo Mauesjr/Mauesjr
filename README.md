@@ -25,5 +25,4 @@ Sou o Marco Antonio, estudante do curso de Engenharia da Computação na Univers
 ## Contato
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=76bdfc&color:ff5d8f)](www.linkedin.com/in/marcomaues)
-
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=76bdfc&color:ff5d8f)](mailto:marcomauesjr@gmail.com)
