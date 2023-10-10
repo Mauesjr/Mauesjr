@@ -23,7 +23,7 @@ Sou o Marco Antonio, estudante do curso de Engenharia da Computação na Univers
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ## Contato
-- [Marco Antonio Maués](www.linkedin.com/in/marcomaues)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=ffafcc&color:ff5d8f)](mailto:marcomauesjr@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=76bdfc&color:ff5d8f)](www.linkedin.com/in/marcomaues)
+
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=76bdfc&color:ff5d8f)](mailto:marcomauesjr@gmail.com)
