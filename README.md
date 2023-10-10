@@ -10,8 +10,6 @@ Sou o Marco Antonio, estudante do curso de Engenharia da Computação na Univers
 - 🌍 Belém-PA, Brasil.
 - 💼 Pesquisador no [Núcleo de P&D em Telecomunicações, Automação e Eletrônica.](https://github.com/lasseufpa)
 
-<img align="right" height="200px" src="https://media.tenor.com/EYlncSVM2w0AAAAC/ech-echop.gif">
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mauesjr&hide_title=true&theme=transparent&bg_color=000&border_color=76bdfc&show_icons=true&icon_color=76bdfc&title_color=76bdfc&text_color=fff)
 
 ## Projetos
