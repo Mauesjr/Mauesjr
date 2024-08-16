@@ -3,7 +3,6 @@
 ![GitHub Followers](https://img.shields.io/github/followers/mauesjr?style=social)
 ![GitHub Stars](https://img.shields.io/github/stars/mauesjr?style=social)
 
-## Sobre mim
 Sou o Marco Antonio, estudante do curso de Engenharia da Computação na Universidade Federal do Pará (UFPA), no quarto semestre, sou pesquisador no [Núcleo de P&D em Telecomunicações, Automação e Eletrônica](https://github.com/lasseufpa).Tenho experiência com algoritmos de rotulação de bugs (SZZ) e modelos de machine learning JUST in TIME software defect prediction. Além disso, Tenho um grande interesse pelas áreas de Data Science e Engenharia de Software, além de ter um hobby relacionado a impressoras 3D.
 
 ## Projetos
