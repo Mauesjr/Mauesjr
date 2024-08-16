@@ -26,7 +26,7 @@ Sou o Marco Antonio, estudante do curso de Engenharia da Computação na Univers
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mauesjr&layout=compact&langs_count=8&theme=tokyonight"/>
 </a>
  <a href="https://github.com/mauesjr">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jvictorferreira3301&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mauesjr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </p>
 
    
