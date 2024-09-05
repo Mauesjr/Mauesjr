@@ -20,10 +20,7 @@ Sou o Marco Antonio, estudante do curso de Engenharia da Computação na Univers
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
-<p align="center" style="display: flex; justify-content: center; align-items: center;">
- <a href="https://github.com/jvictorferreira3301">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mauesjr&layout=compact&langs_count=8&theme=tokyonight"/>
-</a>
+
  <a href="https://github.com/mauesjr">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mauesjr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </p>
