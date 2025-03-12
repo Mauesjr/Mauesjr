@@ -7,7 +7,7 @@ Sou o Marco Antonio, estudante do curso de Engenharia da Computação na Univers
 
 ## Projetos
 
-- 📡 [MIMO](https://jvictorferreira3301.github.io/Projeto-de-Engenharia-II/): Implementação de Sistema de Comunicação Digital MIMO em C.
+- 📡 [MIMO](https://lasseufpa.github.io/cMIMO/): Implementação de Sistema de Comunicação Digital MIMO em C.
 
 ## Ferramentas & Habilidades
 
