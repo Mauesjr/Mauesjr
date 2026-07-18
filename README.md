@@ -12,9 +12,10 @@ No meio acadêmico e de pesquisa, fui pesquisador de Machine Learning no LASSE, 
 ## 🚀 Experiência e Projetos em Destaque
 
 - 🏢 **Desenvolvedor Django (CEPS/UFPA)**: Desenvolvimento full-stack do sistema de avaliação com Django, DTL e MySQL. Implementação de melhorias arquiteturais com AJAX e HTMX, middlewares de segurança (Base64) e testes automatizados.
+- 👁️ **[Sistema Interativo com Visão Computacional (TCC)](https://github.com/Mauesjr/TCC-Yolo-Talk)**: Integração de rastreamento de mãos via MediaPipe e YOLO com componentes eletrônicos modelados e impressos em 3D.
+- 📡 **[C MIMO - Digital Communication System](https://lasseufpa.github.io/C_MIMO/)**: Implementação em C de um sistema MIMO educacional utilizando a biblioteca GSL e a abordagem CDIO. O sistema simula transmissões e avalia métricas de capacidade de canal (SER, BER, SNR, EVM), com resultados analisados via scripts em Python e Jupyter Notebook.
 - 📱 **App de Localização de Ônibus**: Desenvolvimento front-end com React Native para aplicativo mobile baseado em crowdsourcing, com alto foco em UI/UX.
 - 🏆 **Ábaco Eletrônico para Deficientes Visuais**: Desenvolvimento de dispositivo assistivo premiado com o 3º lugar no Prêmio Talentos na Engenharia 2024 (Tecnologia e Inovação).
-- 👁️ **Sistema Interativo com Visão Computacional (TCC)**: Integração de rastreamento de mãos via MediaPipe e YOLO com componentes eletrônicos modelados e impressos em 3D.
 - 🔬 **Pesquisa em Machine Learning (LASSE)**: Identificação de falhas em código-fonte utilizando o Algoritmo SZZ e modelos de predição (JIT-SDP) usando Python e Java.
 
 ## 💻 Ferramentas & Habilidades
@@ -32,6 +33,7 @@ No meio acadêmico e de pesquisa, fui pesquisador de Machine Learning no LASSE, 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ### 🛠️ Linguagens, Infraestrutura & Outros
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
