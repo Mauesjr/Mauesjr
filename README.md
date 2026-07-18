@@ -13,7 +13,7 @@ No meio acadêmico e de pesquisa, fui pesquisador de Machine Learning no LASSE, 
 
 - 🏢 **Desenvolvedor Django (CEPS/UFPA)**: Desenvolvimento full-stack do sistema de avaliação com Django, DTL e MySQL. Implementação de melhorias arquiteturais com AJAX e HTMX, middlewares de segurança (Base64) e testes automatizados.
 - 👁️ **[Sistema Interativo com Visão Computacional (TCC)](https://github.com/Mauesjr/TCC-Yolo-Talk)**: Integração de rastreamento de mãos via MediaPipe e YOLO com componentes eletrônicos modelados e impressos em 3D.
-- 📡 **[C MIMO - Digital Communication System](https://lasseufpa.github.io/C_MIMO/)**: Implementação em C de um sistema MIMO educacional utilizando a biblioteca GSL e a abordagem CDIO. O sistema simula transmissões e avalia métricas de capacidade de canal (SER, BER, SNR, EVM), com resultados analisados via scripts em Python e Jupyter Notebook.
+- 📡 **[C MIMO - Digital Communication System](https://lasseufpa.github.io/cMIMO/)**: Implementação em C de um sistema MIMO educacional utilizando a biblioteca GSL e a abordagem CDIO. O sistema simula transmissões e avalia métricas de capacidade de canal (SER, BER, SNR, EVM), com resultados analisados via scripts em Python e Jupyter Notebook.
 - 📱 **App de Localização de Ônibus**: Desenvolvimento front-end com React Native para aplicativo mobile baseado em crowdsourcing, com alto foco em UI/UX.
 - 🏆 **Ábaco Eletrônico para Deficientes Visuais**: Desenvolvimento de dispositivo assistivo premiado com o 3º lugar no Prêmio Talentos na Engenharia 2024 (Tecnologia e Inovação).
 - 🔬 **Pesquisa em Machine Learning (LASSE)**: Identificação de falhas em código-fonte utilizando o Algoritmo SZZ e modelos de predição (JIT-SDP) usando Python e Java.
